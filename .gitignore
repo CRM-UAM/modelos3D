@@ -1,0 +1,13 @@
+_site
+.jekyll-metadata
+_drafts/
+.DS_Store
+*.swp
+.sass-cache
+*.aux
+*.lof
+*.log
+*.out
+*.synctex.gz
+*.toc
+
